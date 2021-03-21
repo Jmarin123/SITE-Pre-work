@@ -59,12 +59,14 @@ After implementing the function I used the parameters 1,5 and used it for each e
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 As I saw there was an issue with how the squares are stacked together in a staggered form but is there any way to implement so it can dynamically change based on the website size?
 Because I do explore some website and their items can change or even show new elements based off how the width is configured. Also do you have to document all the variables and functions you create
 in the javascript function as good practice or is that just to be organized on this project? Finally, what does the backend of web development do? As in if I made a website like this with simple 
 simon says what would a back end web developer be able to do to help or enhance the project?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 If I had a couple more hours I would definitely try adding the clock because I need time to think on how I would go about doing so and learning how to do so. Then I'd look at changing the reaction
 of the square when clicked such as different tone and adding a small picture in the middle of the square. After implementing those features I would move onto organizing my code and making it look more readable.
 Finally, I would go onto bug test any problems that can occur when implementing all those functions or bug test my current program to see if anything wrong can occur when the program is used incorrectly.
